@@ -3,9 +3,9 @@
   {
     "path": "force-app",
     "default": true,
-    "id": "YOUR_PACKAGE_ID",
-    "versionNumber": "1.0.0.NEXT",
-    "versionName": "Spring ‘18"
+    "id": "0Ho6F0000004CA1SAM",
+    "versionNumber": "1.1.0.NEXT",
+    "versionName": "Spring ‘18 (with new color)"
   }
   ],
   "namespace": "",
